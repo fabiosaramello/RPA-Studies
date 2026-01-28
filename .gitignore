@@ -1,0 +1,9 @@
+# UiPath Ignore List
+.local/
+.settings/
+.screenshots/
+.tmh/
+*.nupkg
+project.lock.json
+*.xlsx
+*.csv
